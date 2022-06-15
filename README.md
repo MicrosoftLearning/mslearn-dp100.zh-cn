@@ -10,7 +10,7 @@ ms.locfileid: "145192781"
 
 此存储库包含针对 Microsoft 课程 [DP-100 在 Azure 上设计和实现数据科学解决方案](https://docs.microsoft.com/learn/certifications/courses/dp-100t01)的动手实验室练习以及等效的 [Microsoft Learn 上的自定进度模块](https://docs.microsoft.com/learn/paths/build-ai-solutions-with-azure-ml-service/)。 这些实验室配合教材提供，你可以使用其描述的方法进行练习。
 
-在指导性课程中使用这些实验室时，学生应使用为课程提供的 Azure 订阅。
+在讲师引导式课程中使用这些实验室时，学生应使用为该课程提供的 Azure 订阅。
 
 ## <a name="what-are-we-doing"></a>我们要做什么？
 
