@@ -1,12 +1,12 @@
 ---
 lab:
   title: 使用自动化机器学习
-ms.openlocfilehash: 70580a25d4bcd3929697874650ea6865262871f4
-ms.sourcegitcommit: d2354e40eec31c22eb09381c6a890311cccc30c9
+ms.openlocfilehash: a4908c0de74edb6c2fdf7b1a7288014d1ab86b94
+ms.sourcegitcommit: 48bc4227570b0817702d195aa06fa4dabe1bbdd7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/11/2022
-ms.locfileid: "146266835"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "146733063"
 ---
 # <a name="use-automated-machine-learning"></a>使用自动化机器学习
 
@@ -42,7 +42,7 @@ Azure 机器学习包括一种自动化机器学习功能，该功能利用云�
 拥有可用于处理数据的计算资源后，需要通过一种方法来存储和引入要处理的数据。
 
 1. 在 Web 浏览器的 https://aka.ms/diabetes-data 中查看以逗号分隔的数据。 然后将此数据保存为名为 diabetes.csv 的本地文件（保存位置并不重要）。
-2. 在 Azure 机器学习工作室中，查看“数据集”页面。 数据集表示计划在 Azure ML 中使用的特定数据文件或表。
+2. 在 Azure 机器学习工作室中，查看“数据”页。 数据集表示计划在 Azure ML 中使用的特定数据文件或表。
 3. 可使用以下设置从本地文件创建新数据集：
     * **基本信息**：
         * **名称**：糖尿病数据集
